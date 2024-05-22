@@ -1,4 +1,4 @@
-##Hi, I'm Eric, an <a href="https://www.linkedin.com/in/eric-valery-b7aa91169">IT Professional</a>☺
+# Hi, I'm Eric, an <a href="https://www.linkedin.com/in/eric-valery-b7aa91169">IT Professional</a>☺
 
 <h2> Information Technology Projects:</h2>
 
